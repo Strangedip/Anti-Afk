@@ -16,20 +16,7 @@
 
 # You can contribute :) and help me out with   :
 
-* [X] focus on valorant.exe : ( if running ) //done
-* [ ] Buy Guns for teammates 
-
-
-* [ ] agent select using pyautogui
-* [ ] remove keyboard module and use pyautogui only
-* [ ] GUI for custom chat inputs :)
-* [ ] make ML model with my mode
-* [ ] make exe for noobs
-    * pip install auto-py-to-exe
-    * and convert into exe
-* [ ] special key binding
-* [ ] start with valo samall icon on somewhere
-* [ ] auto afk detect :) danger zone for campers
+* [X] focus on valorant.exe : ( if running )
 
 # End
 
