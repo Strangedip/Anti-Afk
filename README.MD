@@ -14,7 +14,7 @@
 4. TO run the bot " ```python3 main.py```
 5. anti-ban formula : try playing with a friend
 
-# You can contribute :) and help me out with   :
+# You can contribute :) and help me out by adding more features   :
 
 * [X] focus on valorant.exe : ( if running )
 
